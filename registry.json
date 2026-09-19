@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "modules": [
+    {
+      "id": "treecutters",
+      "name": "Treecutters Utilities",
+      "game": "Treecutters",
+      "author": "IntenseTomato",
+      "description": "Utilities and HUD features for Treecutters.",
+      "version": "1.0.0",
+      "verified": true,
+      "manifest": "modules/treecutters/module.json"
+    }
+  ]
+}
