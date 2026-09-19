@@ -4,9 +4,9 @@
     {
       "id": "treecutters",
       "name": "Treecutters Utilities",
-      "game": "Treecutters",
+      "game": "Treecutting",
       "author": "IntenseTomato",
-      "description": "Utilities and HUD features for Treecutters.",
+      "description": "Utilities and HUD features for Treecutting.",
       "version": "1.0.0",
       "verified": true,
       "manifest": "modules/treecutters/module.json"
