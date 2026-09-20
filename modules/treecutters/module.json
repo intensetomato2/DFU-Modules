@@ -8,5 +8,5 @@
   "entrypoint": "dev.intensetomato.dfu.modules.treecutters.TreecuttersModule",
   "dfu": ">=1.0.0",
   "download": "https://github.com/intensetomato2/DFU-Modules/releases/download/treecutters-v1.0.0/treecutters-1.0.0.dfu",
-  "sha256": "4f3843c6a0c2ecc61d14202b49ff79ae62d67df53d6dfaca9bde49b3245c9316"
+  "sha256": "1486bb7d2582de527ad0e8e0ba739446bf1ef1842af79aaa7209218ed472a78f"
 }
