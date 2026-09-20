@@ -7,6 +7,6 @@
   "description": "Utilities and HUD features for Treecutting.",
   "entrypoint": "dev.intensetomato.dfu.modules.treecutters.TreecuttersModule",
   "dfu": ">=1.0.0",
-  "download": "",
-  "sha256": ""
+  "download": "https://github.com/intensetomato2/DFU-Modules/releases/download/treecutters-v1.0.0/treecutters-1.0.0.dfu",
+  "sha256": "5840BDF371620AB0BC827DD2F96582578740A5270C1D70EF74C74DE08DBDA1A2"
 }
