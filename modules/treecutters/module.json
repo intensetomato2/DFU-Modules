@@ -5,7 +5,7 @@
   "author": "IntenseTomato",
   "version": "1.0.0",
   "description": "Utilities and HUD features for Treecutting.",
-  "entrypoint": "dfu.treecutters.TreecuttersModule",
+  "entrypoint": "dev.intensetomato.dfu.modules.treecutters.TreecuttersModule",
   "dfu": ">=1.0.0",
   "download": "",
   "sha256": ""
