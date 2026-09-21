@@ -10,7 +10,7 @@
 
   "minecraft": {
     "26.2": {
-      "download": "https://github.com/intensetomato2/DFU-Modules/releases/download/treecutters-1.0.0+26.2/treecutters-1.0.0+26.2.dfu",
+      "download": "https://github.com/intensetomato2/DFU-Modules/releases/download/treecutters-1.0.0%2B26.2.dfu/treecutters-1.0.0+26.2.dfu",
       "sha256": "c340b5c60f4bfbd10a8f4d48e2d7cd1311535731bbfdc86f621b2d9f95c7f980"
     },
     "26.3": {
