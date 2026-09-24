@@ -10,6 +10,16 @@
       "version": "1.0.0",
       "verified": true,
       "manifest": "modules/treecutters/module.json"
+    },
+    {
+      "id": "minecraft_theme",
+      "name": "Minecraft Style",
+      "game": "DiamondFire Utilities",
+      "author": "IntenseTomato",
+      "description": "Legacy Console Edition style for DiamondFire Utilities.",
+      "version": "1.0.0",
+      "verified": true,
+      "manifest": "modules/minecraft_theme/module.json"
     }
   ]
 }
