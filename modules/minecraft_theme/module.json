@@ -1,0 +1,9 @@
+{
+  "id": "minecraft_theme",
+  "name": "Minecraft Style",
+  "author": "IntenseTomato",
+  "version": "1.0.0",
+  "description": "Legacy Console Edition style for DiamondFire Utilities.",
+  "entrypoint": "dev.intensetomato.dfu.modules.minecrafttheme.MinecraftThemeModule",
+  "dfu": ">=1.0.0"
+}
