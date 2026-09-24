@@ -9,7 +9,7 @@
   "minecraft": {
     "26.2": {
       "download": "https://github.com/intensetomato2/DFU-Modules/releases/download/minecraft-theme-v1.0.0/minecraft-theme-1.0.0%2B26.2.dfu",
-      "sha256": "5c6a2fdef99bfe47544167a0fb2fccf4c2261c5b6019933479dd01c491cd5f56"
+      "sha256": "bb9833be164cb11a49fef680d0b798855c4f28e70b7e498cd4b53ce64da0b94a"
     },
     "26.3": {
       "download": "",
