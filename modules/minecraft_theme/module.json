@@ -5,5 +5,15 @@
   "version": "1.0.0",
   "description": "Legacy Console Edition style for DiamondFire Utilities.",
   "entrypoint": "dev.intensetomato.dfu.modules.minecrafttheme.MinecraftThemeModule",
-  "dfu": ">=1.0.0"
+  "dfu": ">=1.0.0",
+  "minecraft": {
+    "26.2": {
+      "download": "https://github.com/intensetomato2/DFU-Modules/releases/download/minecraft-theme-v1.0.0/minecraft-theme-1.0.0%2B26.2.dfu",
+      "sha256": "5c6a2fdef99bfe47544167a0fb2fccf4c2261c5b6019933479dd01c491cd5f56"
+    },
+    "26.3": {
+      "download": "",
+      "sha256": ""
+    }
+  }  
 }
